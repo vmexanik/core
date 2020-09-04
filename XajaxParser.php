@@ -1,5 +1,4 @@
 <?
-//123456
 /**
  * @author Mikhail Strovoyt
  */
