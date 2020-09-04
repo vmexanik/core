@@ -3,7 +3,7 @@
  * @author Mikhail Strovoyt
  */
 
-define(RU,"1");//for windows-1251
+define('RU',"1");//for windows-1251
 
 require_once(SERVER_PATH.'/libp/xajax/xajax.inc.php');
 
