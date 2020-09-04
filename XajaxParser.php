@@ -1,7 +1,6 @@
 <?
 /**
  * @author Mikhail Strovoyt
- * @author Vmexanik
  */
 
 define(RU,"1");//for windows-1251
