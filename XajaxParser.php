@@ -1,8 +1,9 @@
 <?
 /**
  * @author Mikhail Strovoyt
- * 12356
  */
+
+// i hate submoules
 
 define('RU',"1");//for windows-1251
 
