@@ -1,6 +1,7 @@
 <?
 /**
  * @author Mikhail Strovoyt
+ * 12356
  */
 
 define('RU',"1");//for windows-1251
