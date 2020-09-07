@@ -2,10 +2,6 @@
 /**
  * @author Mikhail Strovoyt
  *
- * test change
- *
- * second test change
- *
  */
 
 define('RU',"1");//for windows-1251
